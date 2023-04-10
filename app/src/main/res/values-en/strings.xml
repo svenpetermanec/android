@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">1RM (one rep max) is the max weight you can lift for a single repetition. It can be calculated using different formulas, all of which use the weight and the number of reps as the parameters.</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="reps">Reps</string>
+    <string name="button">Calculate</string>
+    <string name="title">1RM Calculator</string>
+    <string name="error">Values higher than 10 yield inaccurate results</string>
+</resources>

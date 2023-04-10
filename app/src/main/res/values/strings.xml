@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">KalkulatorPetermanec</string>
+    <string name="description">1RM (one rep max) označava maksimalnu težinu koju možete podići samo jednonm. Izračunati se može koristići neku od brojnih formula koje kao parametre imaju kilažu s kojom se radi i broj ponavljanja sa tom kilažom.</string>
+    <string name="weight">Kilaža (kg)</string>
+    <string name="reps">Broj ponavljanja</string>
+    <string name="button">Izračunaj</string>
+    <string name="title">1RM Kalkulator</string>
+    <string name="error">Vrijednosti iznad 10 rezultiraju nepreciznim rezultatima</string>
+</resources>

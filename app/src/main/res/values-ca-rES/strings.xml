@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">1RM (una repetición máxima) es el peso máximo que puede levantar para una sola repetición. Se puede calcular usando diferentes fórmulas, todas las cuales usan el peso y el número de repeticiones como parámetros.</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="reps">"Repeticiones "</string>
+    <string name="button">"Calcular "</string>
+    <string name="title">Calculadora de 1RM</string>
+    <string name="error">Los valores superiores a 10 producen resultados inexactos</string>
+</resources>
